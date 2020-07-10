@@ -4,35 +4,23 @@
  
       "imgUrl":"https://pluralsight.imgix.net/course-images/mobile-puzzle-game-unity-1999-v1.jpg",
       "title": "Eloquent JavaScript, Second Edition",
-   
       "author": "Marijn Haverbeke",
-      
       "pages": 472,
-      
       "price": 250
     },
     {
       "imgUrl":"https://pluralsight.imgix.net/course-images/quick-start-javascript-1-1870-v1.jpg",
       "title": "Learning JavaScript Design Patterns",
-      
       "author": "Addy Osmani",
-      
       "pages": 254,
-      
       "price": 300
     },
-   
-   
-    
     {
      
       "imgUrl": "https://pluralsight.imgix.net/course-images/aws-developer-getting-started-v1.jpg",
       "title": "Speaking JavaScript",
-      
       "author": "Axel Rauschmayer",
-      
       "pages": 460,
-      
       "price": 100
     },
     
@@ -40,46 +28,31 @@
       
       "imgUrl": "https://pluralsight.imgix.net/course-images/aws-developer-getting-started-v1.jpg",
       "title": "Programming JavaScript Applications",
-     
       "author": "Eric Elliott",
-    
       "pages": 254,
-      
       "price": 1000
     },
    
     {
-      "isbn": "9781593277574",
+      
       "imgUrl": "https://pluralsight.imgix.net/course-images/aws-developer-getting-started-v1.jpg",
       "title": "Understanding ECMAScript 6",
-      "subtitle": "The Definitive Guide for JavaScript Developers",
       "author": "Nicholas C. Zakas",
-      "published": "2016-09-03T00:00:00.000Z",
-      "publisher": "No Starch Press",
       "pages": 352,
-      "description": "ECMAScript 6 represents the biggest update to the core of JavaScript in the history of the language. In Understanding ECMAScript 6, expert developer Nicholas C. Zakas provides a complete guide to the object types, syntax, and other exciting changes that ECMAScript 6 brings to JavaScript.",
       "price": 120
     },
     {
-      
       "imgUrl": "https://pluralsight.imgix.net/course-images/aws-developer-getting-started-v1.jpg",
       "title": "You Don't Know JS",
-      
       "author": "Kyle Simpson",
-
       "pages": 278,
-    
       "price": 650
     },
     {
-      
       "imgUrl": "https://pluralsight.imgix.net/course-images/aws-developer-getting-started-v1.jpg",
       "title": "Git Pocket Guide",
-      
-      "author": "Richard E. Silverman",
-      
+      "author": "Richard E. Silverman",      
       "pages": 234,
-      
       "price": 150
     },
 
@@ -87,9 +60,7 @@
       
       "imgUrl": "https://pluralsight.imgix.net/course-images/aws-developer-getting-started-v1.jpg",
       "title": "Designing Evolvable Web APIs with ASP.NET",
-      
       "author": "Glenn Block, et al.",
-      
       "pages": 538,
       "price": 150
     }
