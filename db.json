@@ -1,27 +1,14 @@
 {
-  "books": [
-    {
-      "isbn": "9781593275846",
-      "imgUrl":"https://pluralsight.imgix.net/course-images/mobile-puzzle-game-unity-1999-v1.jpg",
-      "title": "Eloquent JavaScript, Second Edition",
-      "subtitle": "A Modern Introduction to Programming",
-      "author": "Marijn Haverbeke",
-      "published": "2014-12-14T00:00:00.000Z",
-      "publisher": "No Starch Press",
-      "pages": 472,
-      "price": 250
-    },
-    {
-      "isbn": "9781593241584",
-      "imgUrl":"https://pluralsight.imgix.net/course-images/understanding-machine-learning-v1.jpg",
-      "title": "Networking",
-      "subtitle": "A Modern Introduction to Programming",
-      "author": "Marijn Haverbeke",
-      "published": "2014-12-14T00:00:00.000Z",
-      "publisher": "No Starch Press",
-      "pages": 300,
-      "price": 400
-    }
-    
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
